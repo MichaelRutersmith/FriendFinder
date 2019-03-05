@@ -1,7 +1,7 @@
 // Array of friends to match with user's answers
 var friends = [{
-    "name": "Arnold",
-    "photo": 'https://i.ytimg.com/vi/Ce7hJ24a8yM/maxresdefault.jpg',
+    "name": "Buck",
+    "photo": 'https://i.imgur.com/eAPAXc0.jpg',
     "scores": [
         5,
         1,
@@ -16,8 +16,8 @@ var friends = [{
     ]
 },
 {
-    "name": "Buster",
-    "photo": 'https://i.pinimg.com/736x/5c/38/b5/5c38b5a5b6a416a739444aaa76a2a116--pretty-puppies-puppies-cute.jpg',
+    "name": "Phillip",
+    "photo": 'https://i.imgur.com/dVl2SuP.jpg',
     "scores": [
         2,
         4,
@@ -32,8 +32,8 @@ var friends = [{
     ]
 },
 {
-    "name": "Toby",
-    "photo": 'http://cdn.akc.org/content/article-body-image/siberian_husky_cute_puppies.jpg',
+    "name": "Fredrick",
+    "photo": 'https://i.imgur.com/WeTo8Iq.jpg',
     "scores": [
         5,
         5,
@@ -48,8 +48,8 @@ var friends = [{
     ]
 },
 {
-    "name": "Scout",
-    "photo": 'https://vetstreet.brightspotcdn.com/dims4/default/a06ecad/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fa8%2Fc8%2F0215a25b47a799365aa850b6ffad%2Ftibetan-terrier-6.jpg',
+    "name": "Marcus Johnson",
+    "photo": 'https://i.imgur.com/uNjS4lZ.jpg',
     "scores": [
         2,
         2,
@@ -64,8 +64,8 @@ var friends = [{
     ]
 },
 {
-    "name": "Loulou",
-    "photo": 'https://i.ytimg.com/vi/VRiWE1l8KqI/maxresdefault.jpg',
+    "name": "Lucius Fox",
+    "photo": 'https://i.imgur.com/UrJU7vU.jpg',
     "scores": [
         1,
         1,
@@ -80,8 +80,8 @@ var friends = [{
     ]
 },
 {
-    "name": "Annie",
-    "photo": 'https://i.pinimg.com/originals/61/a6/ee/61a6ee4f5613e47721095e6bea6a86b5.jpg',
+    "name": "Bark Bark Bark",
+    "photo": 'https://i.imgur.com/QDOHWD6.jpg',
     "scores": [
         1,
         1,
@@ -96,8 +96,8 @@ var friends = [{
     ]
 },
 {
-    "name": "Duplo",
-    "photo": 'http://buzzsharer.com/wp-content/uploads/2015/04/cute-lab-retriever-puppy-eyes.jpg',
+    "name": "Is Kat",
+    "photo": 'https://i.imgur.com/FsUDDZx.jpg',
     "scores": [
         5,
         5,
